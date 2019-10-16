@@ -1,0 +1,2 @@
+With CreateObject("Scripting.FileSystemObject").MoveFile "sourceFile", "TargetFile"
+End With
